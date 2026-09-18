@@ -1,0 +1,262 @@
+[
+  {
+    "id": "augusta-tarlogie",
+    "name": "BAR AUGUSTA Tarlogie",
+    "nameJa": "バー・オーガスタ・ターロギー",
+    "city": "大阪",
+    "area": "梅田・茶屋町",
+    "categories": [
+      "whisky"
+    ],
+    "address": "大阪府大阪市北区鶴野町2-3 アラカワビル1F",
+    "phone": "06-6376-3455",
+    "lat": 34.7070235,
+    "lng": 135.5012103,
+    "coordinateSource": "https://hitosara.com/0031051809/map.html",
+    "coordinatePrecision": "店铺页面公开地图坐标；楼层请按地址辨认",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.83,
+        "scale": 5,
+        "count": 201,
+        "url": "https://tabelog.com/osaka/A2701/A270101/27003573/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、电话、地址",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27003573/"
+      },
+      {
+        "label": "官网：地址、电话",
+        "url": "https://bar-augusta.com/"
+      },
+      {
+        "label": "Suntory：店铺访问报道",
+        "url": "https://bartendersclub.blog.suntory.co.jp/004671.html"
+      },
+      {
+        "label": "ヒトサラ：店铺坐标",
+        "url": "https://hitosara.com/0031051809/map.html"
+      }
+    ],
+    "description": "茶屋町的经典吧，单一麦芽与经典鸡尾酒都值得探索；木质空间适合慢慢品饮。",
+    "tip": "与同址的 BAR AUGUSTA 相邻；食べログ列周二休、17:00–00:00，16个吧台座。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "parkmore",
+    "name": "Bar Parkmore",
+    "nameJa": "パークモア",
+    "city": "大阪",
+    "area": "北新地",
+    "categories": [
+      "whisky"
+    ],
+    "address": "大阪府大阪市北区曽根崎新地1-4-17 YUビル3F",
+    "phone": "06-4795-0155",
+    "lat": 34.69818598798,
+    "lng": 135.49625122745,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/UyjJoHYwUEA",
+    "coordinatePrecision": "Yahoo!マップ 店铺公开坐标；楼层请按地址辨认",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.18,
+        "scale": 5,
+        "count": 43,
+        "url": "https://tabelog.com/osaka/A2701/A270101/27073014/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、电话、地址",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27073014/"
+      },
+      {
+        "label": "Suntory BAR-NAVI：单一麦芽特色",
+        "url": "https://bar-navi.suntory.co.jp/shop/0X00270860/"
+      },
+      {
+        "label": "Yahoo!マップ：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/UyjJoHYwUEA"
+      }
+    ],
+    "description": "北新地的小型单一麦芽吧，选酒集中在威士忌，适合坐吧台与调酒师讨论风味。",
+    "tip": "食べログ列周日休、仅9席，建议先电话问位。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "cellar-infini",
+    "name": "Cellar Infini",
+    "nameJa": "セラ・アンフィニィ",
+    "city": "大阪",
+    "area": "北新地",
+    "categories": [
+      "whisky"
+    ],
+    "address": "大阪府大阪市北区曽根崎新地1-1-16 クリスタルコートビルB1F",
+    "phone": "06-6341-9173",
+    "lat": 34.696770967982,
+    "lng": 135.49943246743,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/khfe7WooMN-",
+    "coordinatePrecision": "Yahoo!マップ 店铺公开坐标；楼层请按地址辨认",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.21,
+        "scale": 5,
+        "count": 50,
+        "url": "https://tabelog.com/osaka/A2701/A270101/27000142/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "官网：地址、电话、老酒与营业日",
+        "url": "https://www.cellarinfini.com/access/"
+      },
+      {
+        "label": "食べログ：评分",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27000142/"
+      },
+      {
+        "label": "Yahoo!マップ：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/khfe7WooMN-"
+      }
+    ],
+    "description": "收藏陈年威士忌和老装瓶，古木船舱般的空间，也可搭配店内创作料理。",
+    "tip": "官网列周一至周五17:00–23:00（L.O.22:00），周六、周日及日本节假日休。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "common",
+    "name": "Japanese Craft Whisky Bar common",
+    "nameJa": "ジャパニーズ クラフト ウイスキー バー コモン",
+    "city": "大阪",
+    "area": "心斋桥",
+    "categories": [
+      "whisky"
+    ],
+    "address": "大阪府大阪市中央区心斎橋筋1-8-3 心斎橋PARCO B2F",
+    "phone": "06-6786-8787",
+    "lat": 34.673859167997,
+    "lng": 135.5003283872,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/UAgi_CycpqQ",
+    "coordinatePrecision": "Yahoo!マップ 店铺公开坐标；位于商场地下2层",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.09,
+        "scale": 5,
+        "count": 23,
+        "url": "https://tabelog.com/osaka/A2701/A270201/27122189/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "PARCO官方：日本手工威士忌、电话与营业时间",
+        "url": "https://shinsaibashi.parco.jp/shop/detail/?cd=26582"
+      },
+      {
+        "label": "食べログ：评分、地址",
+        "url": "https://tabelog.com/osaka/A2701/A270201/27122189/"
+      },
+      {
+        "label": "Yahoo!マップ：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/UAgi_CycpqQ"
+      }
+    ],
+    "description": "心斋桥PARCO地下的日本精酿威士忌吧，重点探索小规模蒸馏所，也供应标准鸡尾酒。",
+    "tip": "PARCO官方列平日14:30、周末14:00开门，23:00结束，适合购物后接一杯。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "bar-k6",
+    "name": "Bar K6",
+    "nameJa": "ケーシックス",
+    "city": "京都",
+    "area": "二条木屋町",
+    "categories": [
+      "whisky"
+    ],
+    "address": "京都府京都市中京区二条通木屋町東入ル東生洲町481 ヴァルズビル2F",
+    "phone": "075-255-5009",
+    "lat": 35.013328767868,
+    "lng": 135.77056460044,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/fwqusJ3dhEQ",
+    "coordinatePrecision": "Yahoo!マップ 店铺公开坐标；楼层请按地址辨认",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.7,
+        "scale": 5,
+        "count": 352,
+        "url": "https://tabelog.com/kyoto/A2601/A260202/26001197/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "官网：电话、地址、营业与休业公告",
+        "url": "https://ksix.jp/index.html"
+      },
+      {
+        "label": "食べログ：评分、详细地址",
+        "url": "https://tabelog.com/kyoto/A2601/A260202/26001197/"
+      },
+      {
+        "label": "Suntory BAR-NAVI：单一麦芽及老装瓶",
+        "url": "https://bar-navi.suntory.co.jp/shop/0752555009/"
+      },
+      {
+        "label": "Yahoo!マップ：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/fwqusJ3dhEQ"
+      }
+    ],
+    "description": "京都老牌酒吧，珍稀单一麦芽与老装瓶是亮点，也有丰富餐食可搭配。",
+    "tip": "官网列18:00–02:00、周一周二休；另公告2026年9月27–29日员工研修休业。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "main-malt",
+    "name": "Bar Main Malt",
+    "nameJa": "メインモルト",
+    "city": "神户",
+    "area": "三宫・东门街",
+    "categories": [
+      "whisky"
+    ],
+    "address": "兵庫県神戸市中央区中山手通1-6-2 東門ゴールドビル2F",
+    "phone": "078-331-7372",
+    "lat": 34.69458225053174,
+    "lng": 135.19205048746028,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/jZjUmFGVH_U",
+    "coordinatePrecision": "Yahoo!マップ 店铺公开坐标；楼层请按地址辨认",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.22,
+        "scale": 5,
+        "count": 26,
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28058195/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、电话、迁址后的地址",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28058195/"
+      },
+      {
+        "label": "LIQLOG实地采访：威士忌收藏",
+        "url": "https://liqlog.com/post/maker/hyogo_sannomiya_bar-main-malt/"
+      },
+      {
+        "label": "Yahoo!マップ：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/jZjUmFGVH_U"
+      }
+    ],
+    "description": "三宫的威士忌专门吧，收藏横跨苏格兰和爱尔兰，满墙酒瓶适合深入探索。",
+    "tip": "已迁至东门街2楼，勿按旧地址北長狭通找店；可先打电话问位与营业时间。",
+    "verifiedAt": "2026-09-18"
+  }
+]

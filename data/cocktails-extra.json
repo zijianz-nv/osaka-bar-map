@@ -1,0 +1,246 @@
+[
+  {
+    "id": "bar-masuda",
+    "name": "Bar Masuda",
+    "nameJa": "バー マスダ",
+    "city": "大阪",
+    "area": "心斋桥・宗右卫门町",
+    "categories": [
+      "cocktail"
+    ],
+    "address": "大阪府大阪市中央区心斎橋筋2-3-11",
+    "phone": "06-6211-0690",
+    "lat": 34.669548,
+    "lng": 135.50214,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/xiVudJmPBOU",
+    "coordinatePrecision": "Yahoo!地图公开场所坐标；楼层与入口以地址为准",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.82,
+        "scale": 5,
+        "count": 263,
+        "url": "https://tabelog.com/osaka/A2701/A270202/27064091/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、评价人数、电话、地址与店铺信息",
+        "url": "https://tabelog.com/osaka/A2701/A270202/27064091/"
+      },
+      {
+        "label": "Yahoo!地图：场所坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/xiVudJmPBOU"
+      }
+    ],
+    "description": "1958年开业的宗右卫门町老店，以长吧台和经典氛围见长，可从店名同款 Masuda Original 喝起。",
+    "tip": "有英文菜单；这里列的是店铺直拨电话。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "bar-shiki",
+    "name": "BAR Shiki",
+    "nameJa": "BAR識",
+    "city": "大阪",
+    "area": "东心斋桥",
+    "categories": [
+      "cocktail"
+    ],
+    "address": "大阪府大阪市中央区東心斎橋1-17-4 マーシャルビル2F",
+    "phone": "06-6125-5015",
+    "lat": 34.673205707999,
+    "lng": 135.50332568719,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/zWsXIm0DDng",
+    "coordinatePrecision": "Yahoo!地图公开场所坐标；楼层与入口以地址为准",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.09,
+        "scale": 5,
+        "count": 19,
+        "url": "https://tabelog.com/osaka/A2701/A270201/27106470/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、评价人数、电话、地址与店铺信息",
+        "url": "https://tabelog.com/osaka/A2701/A270201/27106470/"
+      },
+      {
+        "label": "调酒师访谈：药草酒与店铺理念",
+        "url": "https://liquorpage.com/8bar-barshiki-osaka/"
+      },
+      {
+        "label": "活动主办方：地址、电话",
+        "url": "https://shochumixup.com/shoplist/bar-shiki/"
+      },
+      {
+        "label": "Yahoo!地图：场所坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/zWsXIm0DDng"
+      }
+    ],
+    "description": "东心斋桥二楼的小酒吧，药草酒与威士忌是店主关注的方向，适合探索带草本风味的鸡尾酒。",
+    "tip": "位于マーシャルビル二楼，入口按楼层寻找。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "bar-beso",
+    "name": "BAR BESO",
+    "nameJa": "バー ベッソ",
+    "city": "大阪",
+    "area": "北新地・堂岛",
+    "categories": [
+      "cocktail"
+    ],
+    "address": "大阪府大阪市北区堂島1-3-35 新陽第二ビルB1F",
+    "phone": "06-4256-6232",
+    "lat": 34.696830337177,
+    "lng": 135.49858717627,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/pauQzOq0aNU",
+    "coordinatePrecision": "Yahoo!地图公开场所坐标；楼层与入口以地址为准",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.25,
+        "scale": 5,
+        "count": 48,
+        "url": "https://tabelog.com/osaka/A2701/A270101/27079808/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、评价人数、电话、地址与店铺信息",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27079808/"
+      },
+      {
+        "label": "Yahoo!地图：场所坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/pauQzOq0aNU"
+      }
+    ],
+    "description": "北新地地下的老派酒吧，水果鸡尾酒是值得试的方向，也可点经典配方慢慢品饮。",
+    "tip": "使用堂島现址，店铺在新陽第二ビル地下。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "st-regis-bar-osaka",
+    "name": "The St. Regis Bar",
+    "nameJa": "セントレジス バー",
+    "city": "大阪",
+    "area": "本町",
+    "categories": [
+      "cocktail"
+    ],
+    "address": "大阪府大阪市中央区本町3-6-12 セント レジス ホテル 大阪12F",
+    "phone": "06-6105-5659",
+    "lat": 34.683217,
+    "lng": 135.5013,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/RzaZXv6TQKk",
+    "coordinatePrecision": "Yahoo!地图公开场所坐标；楼层与入口以地址为准",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.58,
+        "scale": 5,
+        "count": 305,
+        "url": "https://tabelog.com/osaka/A2701/A270106/27052889/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、评价人数、电话、地址与店铺信息",
+        "url": "https://tabelog.com/osaka/A2701/A270106/27052889/"
+      },
+      {
+        "label": "官网：电话、地址与楼层",
+        "url": "https://www.stregisbar.stregisosaka.com/about-us"
+      },
+      {
+        "label": "Yahoo!地图：场所坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/RzaZXv6TQKk"
+      }
+    ],
+    "description": "本町瑞吉酒店12楼的酒店吧，可试大阪原创 Shogun Mary，用柚子、山葵与酱油演绎血腥玛丽。",
+    "tip": "着装要求为 smart casual；预约及费用详情可查看官网。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "bees-knees-kyoto",
+    "name": "BEE’S KNEES",
+    "nameJa": "ビーズニーズ",
+    "city": "京都",
+    "area": "四条河原町・木屋町",
+    "categories": [
+      "cocktail"
+    ],
+    "address": "京都府京都市中京区紙屋町364 マツヤビル1F",
+    "phone": "075-585-5595",
+    "lat": 35.005019827873,
+    "lng": 135.77030601036,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/wBG1cf6Y926",
+    "coordinatePrecision": "Yahoo!地图公开场所坐标；楼层与入口以地址为准",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.09,
+        "scale": 5,
+        "count": 33,
+        "url": "https://tabelog.com/kyoto/A2601/A260201/26031299/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、评价人数、电话、地址与店铺信息",
+        "url": "https://tabelog.com/kyoto/A2601/A260201/26031299/"
+      },
+      {
+        "label": "调酒师访谈：鸡尾酒理念与地址、电话",
+        "url": "https://liquorpage.com/8qa-beesknees-kyoto/"
+      },
+      {
+        "label": "Yahoo!地图：场所坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/wBG1cf6Y926"
+      }
+    ],
+    "description": "禁酒令时期纽约地下酒吧风格，将经典鸡尾酒与京都、日本风味结合，入口藏在黄色门后。",
+    "tip": "入口招牌写着 The Book Store。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "savoy-kitanozaka",
+    "name": "SAVOY KITANOZAKA",
+    "nameJa": "サヴォイ キタノザカ",
+    "city": "神户",
+    "area": "三宫・北野坂",
+    "categories": [
+      "cocktail"
+    ],
+    "address": "兵庫県神戸市中央区中山手通1-7-20 第3天成ビル4F",
+    "phone": "078-331-8977",
+    "lat": 34.694999957886,
+    "lng": 135.19240584763,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/RrdLOToUewQ",
+    "coordinatePrecision": "Yahoo!地图公开场所坐标；楼层与入口以地址为准",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.71,
+        "scale": 5,
+        "count": 182,
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28022839/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、评价人数、电话、地址与店铺信息",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28022839/"
+      },
+      {
+        "label": "Yahoo!地图：场所坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/RrdLOToUewQ"
+      }
+    ],
+    "description": "神户的经典吧台，招牌 Sol Cubano 以朗姆、葡萄柚和汤力水呈现清爽柑橘风味。",
+    "tip": "位于第3天成ビル四楼，可从招牌 Sol Cubano 开始。",
+    "verifiedAt": "2026-09-18"
+  }
+]

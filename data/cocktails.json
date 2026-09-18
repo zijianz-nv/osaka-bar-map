@@ -1,0 +1,251 @@
+[
+  {
+    "id": "bar-nayuta",
+    "name": "Bar Nayuta",
+    "nameJa": "バー ナユタ",
+    "city": "大阪",
+    "area": "心斋桥・美国村",
+    "categories": [
+      "cocktail"
+    ],
+    "address": "大阪府大阪市中央区西心斎橋1-6-17 マリオビル5F",
+    "phone": "06-6210-3615",
+    "lat": 34.67201738,
+    "lng": 135.49841946,
+    "coordinateSource": "https://www.mapion.co.jp/phonebook/M01014/27128/G7092834-001/",
+    "coordinatePrecision": "地图平台场所标记；楼层以地址为准",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.16,
+        "scale": 5,
+        "count": 38,
+        "url": "https://tabelog.com/osaka/A2701/A270201/27093461/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "官网：电话、地址及调酒理念",
+        "url": "https://bar-nayuta.com/bar-nayuta/"
+      },
+      {
+        "label": "食べログ：评分与点评人数",
+        "url": "https://tabelog.com/osaka/A2701/A270201/27093461/"
+      },
+      {
+        "label": "Mapion：场所坐标",
+        "url": "https://www.mapion.co.jp/phonebook/M01014/27128/G7092834-001/"
+      }
+    ],
+    "description": "藏在美国村五楼，以自制苦精、浸泡材料重新演绎经典鸡尾酒。适合喜欢香料与草本层次的人。",
+    "tip": "官网营业时间17:00–03:00，最后点单02:30；食べログ标注不接受预约。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "bible-club-osaka",
+    "name": "Bible Club Osaka",
+    "nameJa": "バイブル クラブ オオサカ",
+    "city": "大阪",
+    "area": "心斋桥",
+    "categories": [
+      "cocktail"
+    ],
+    "address": "大阪府大阪市中央区心斎橋筋2-1-11 ビヨンクールビルB1F",
+    "phone": "06-4708-1238",
+    "lat": 34.67124755257685,
+    "lng": 135.50202897546308,
+    "coordinateSource": "https://bibleclubosaka.jp/",
+    "coordinatePrecision": "官网Google Maps店铺标记；地下入口以现场为准",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.2,
+        "scale": 5,
+        "count": 62,
+        "url": "https://tabelog.com/osaka/A2701/A270201/27109714/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "官网：电话、地址、地图与营业信息",
+        "url": "https://bibleclubosaka.jp/"
+      },
+      {
+        "label": "官网：古董空间与经典调酒理念",
+        "url": "https://bibleclubosaka.jp/concept/"
+      },
+      {
+        "label": "食べログ：评分与点评人数",
+        "url": "https://tabelog.com/osaka/A2701/A270201/27109714/"
+      }
+    ],
+    "description": "波特兰Bible Club的姐妹店，从水晶杯到灯具皆用古董与复古物件，主打重新演绎的经典鸡尾酒。",
+    "tip": "官网标注18:00–01:00，最后点单00:30，座席费¥800；食べログ标注周三休息。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "bar-k",
+    "name": "Bar,K",
+    "nameJa": "バー ケー",
+    "city": "大阪",
+    "area": "北新地",
+    "categories": [
+      "cocktail",
+      "whisky"
+    ],
+    "address": "大阪府大阪市北区曽根崎新地1-3-3 好陽ビルB1F",
+    "phone": "06-6343-1167",
+    "lat": 34.6973319,
+    "lng": 135.49697408,
+    "coordinateSource": "https://www.mapion.co.jp/phonebook/M01014/27127/22730208409/",
+    "coordinatePrecision": "地图平台场所标记；地下入口以现场为准",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.71,
+        "scale": 5,
+        "count": 188,
+        "url": "https://tabelog.com/osaka/A2701/A270101/27002057/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "官网：电话、地址、鸡尾酒与威士忌",
+        "url": "https://bar-k.jp/"
+      },
+      {
+        "label": "食べログ：评分与点评人数",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27002057/"
+      },
+      {
+        "label": "Mapion：场所坐标",
+        "url": "https://www.mapion.co.jp/phonebook/M01014/27127/22730208409/"
+      }
+    ],
+    "description": "1988年开业的北新地老派酒吧，经典鸡尾酒、苏格兰单一麦芽与爵士唱片是主角。",
+    "tip": "官网标注周一至周六18:00–00:00，周日及年末年初休息；食べログ另标注节假日休息。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "bar-juniper",
+    "name": "BAR JUNIPER",
+    "nameJa": "バー・ジュニパー",
+    "city": "大阪",
+    "area": "北新地・堂岛",
+    "categories": [
+      "cocktail"
+    ],
+    "address": "大阪府大阪市北区堂島1-4-4 NJビル1F",
+    "phone": "080-4829-8876",
+    "lat": 34.6960591,
+    "lng": 135.498072,
+    "coordinateSource": "https://goo.gl/maps/viSdj6vHB2JQmyc89",
+    "coordinatePrecision": "店铺介绍页链接的Google Maps地址点；一层入口以现场为准",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.76,
+        "scale": 5,
+        "count": 325,
+        "url": "https://tabelog.com/osaka/A2701/A270101/27057361/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、电话、地址与营业信息",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27057361/"
+      },
+      {
+        "label": "北新地店铺介绍：金酒专门店与地图",
+        "url": "https://www.yappasukiyanen.net/bar/5502/"
+      },
+      {
+        "label": "活动主办方：电话与地址交叉核实",
+        "url": "https://shochumixup.com/shoplist/bar-juniper/"
+      }
+    ],
+    "description": "金酒专门店，适合从Gin & Tonic、Martini喝起，探索不同产地金酒的草本香气。",
+    "tip": "营业时间、店休日及预约规则在公开来源间有差异，出发前建议致电确认。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "lescamoteur-kyoto",
+    "name": "L’Escamoteur Bar",
+    "nameJa": "レスカモトゥール バー",
+    "city": "京都",
+    "area": "四条河原町・木屋町",
+    "categories": [
+      "cocktail"
+    ],
+    "address": "京都府京都市下京区西石垣通四条下ル斎藤町138-9 2F",
+    "phone": "075-708-8511",
+    "lat": 35.001813,
+    "lng": 135.769756,
+    "coordinateSource": "https://www.atlasobscura.com/places/lescamoteur",
+    "coordinatePrecision": "旅行媒体公开场所坐标；二层入口以现场为准",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.2,
+        "scale": 5,
+        "count": 48,
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26025473/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：电话、地址、评分与营业信息",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26025473/"
+      },
+      {
+        "label": "Atlas Obscura：空间风格与场所坐标",
+        "url": "https://www.atlasobscura.com/places/lescamoteur"
+      },
+      {
+        "label": "Drink Planet：调酒师与店铺介绍",
+        "url": "https://www.drinkplanet.jp/bartenders/view/114"
+      }
+    ],
+    "description": "阁楼般的蒸汽朋克空间，把魔术感的呈现与创意鸡尾酒放在一起；适合把喝酒当成一场小演出。",
+    "tip": "食べログ标注20:00–02:00、周四休息、不接受预约；二层小店，建议早到。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "elixir-de-longue-vie",
+    "name": "Elixir de Longue Vie",
+    "nameJa": "エリクシルドロングヴィー",
+    "city": "神户",
+    "area": "三宫・生田神社附近",
+    "categories": [
+      "cocktail"
+    ],
+    "address": "兵庫県神戸市中央区中山手通1-3-5",
+    "phone": "078-392-7210",
+    "lat": 34.69440054,
+    "lng": 135.19201954,
+    "coordinateSource": "https://www.mapion.co.jp/phonebook/M01014/28110/G6200051-001/",
+    "coordinatePrecision": "地图平台场所标记；入口以现场为准",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.06,
+        "scale": 5,
+        "count": 5,
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28022778/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ店方维护页面：电话、地址、评分与营业信息",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28022778/"
+      },
+      {
+        "label": "Mapion：电话、地址与场所坐标",
+        "url": "https://www.mapion.co.jp/phonebook/M01014/28110/G6200051-001/"
+      }
+    ],
+    "description": "三宫的小型鸡尾酒吧，提供经典、原创和水果鸡尾酒；可以向调酒师说明偏好的甜度与风味。",
+    "tip": "店方维护页面标注16:00开门、周三休息、可预约；评分样本仅5人，参考时留意样本量。",
+    "verifiedAt": "2026-09-18"
+  }
+]

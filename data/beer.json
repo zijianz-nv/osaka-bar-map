@@ -1,0 +1,264 @@
+[
+  {
+    "id": "kamikaze",
+    "name": "CraftBeerWorks KAMIKAZE",
+    "nameJa": "Kamikaze（カミカゼ）",
+    "city": "大阪",
+    "area": "北堀江・西大桥",
+    "categories": [
+      "beer"
+    ],
+    "address": "大阪府大阪市西区北堀江1-16-13 トマトハウス 1F",
+    "phone": "06-6539-7550",
+    "lat": 34.673757,
+    "lng": 135.494288,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/eeZDSjo8uIU",
+    "coordinatePrecision": "Yahoo!地图店铺点位（网页 GeoCoordinates）；未实地验证入口",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.21,
+        "scale": 5,
+        "count": 25,
+        "countUnit": "评价人数",
+        "url": "https://tabelog.com/osaka/A2701/A270201/27142508/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、电话、新地址与店家介绍",
+        "url": "https://tabelog.com/osaka/A2701/A270201/27142508/"
+      },
+      {
+        "label": "官方 Instagram",
+        "url": "https://www.instagram.com/cbw_kamikaze/"
+      },
+      {
+        "label": "Yahoo!地图：新址坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/eeZDSjo8uIU"
+      }
+    ],
+    "description": "北堀江精酿酒馆，店家介绍列出国内外16款生啤及瓶装酒；炸鸡与披萨是主打搭配。",
+    "tip": "使用2024年迁址后的新地址：北堀江1-16-13。店家标注全店禁烟、无座位费。",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "beerbelly-tenma",
+    "name": "BEER BELLY 天满",
+    "nameJa": "ビアベリー 天満（BEER BELLY）",
+    "city": "大阪",
+    "area": "天满",
+    "categories": [
+      "beer"
+    ],
+    "address": "大阪府大阪市北区池田町7-4 1F（天満市場内）",
+    "phone": "06-6353-5005",
+    "lat": 34.70708818,
+    "lng": 135.51278814,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/200e-WzUXdM",
+    "coordinatePrecision": "Yahoo!地图店铺点位（网页 GeoCoordinates）；未实地验证入口",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.56,
+        "scale": 5,
+        "count": 244,
+        "countUnit": "评价人数",
+        "url": "https://tabelog.com/osaka/A2701/A270103/27064698/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "官网：地址、电话与15款箕面啤酒",
+        "url": "https://beerbelly.jp/tenma/"
+      },
+      {
+        "label": "食べログ：评分与店铺信息",
+        "url": "https://tabelog.com/osaka/A2701/A270103/27064698/"
+      },
+      {
+        "label": "Yahoo!地图：坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/200e-WzUXdM"
+      }
+    ],
+    "description": "箕面啤酒的天满据点，12米长吧台，酒头和手泵合计供应约15款箕面啤酒，适合集中探索大阪本地酿造。",
+    "tip": "官网列出工作日17点、周末及节假日15点开门；当天酒单可在官网查看。",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "mother-tree",
+    "name": "CRAFT BEER BASE MOTHER TREE",
+    "nameJa": "クラフトビアベース マザーツリー",
+    "city": "大阪",
+    "area": "梅田・大淀中",
+    "categories": [
+      "beer"
+    ],
+    "address": "大阪府大阪市北区大淀中1-13-13",
+    "phone": "06-7503-9795",
+    "lat": 34.704983,
+    "lng": 135.487901,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/5LXcB5XYYn6",
+    "coordinatePrecision": "Yahoo!地图店铺点位（网页 GeoCoordinates）；未实地验证入口",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.37,
+        "scale": 5,
+        "count": 72,
+        "countUnit": "评价人数",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27125128/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "官方商店：本店介绍",
+        "url": "https://cbb-online.shop-pro.jp/?mode=sk"
+      },
+      {
+        "label": "大阪Metro：地址、电话及酒厂介绍",
+        "url": "https://maas.osakametro.co.jp/shop/3148/"
+      },
+      {
+        "label": "食べログ：评分与营业资料",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27125128/"
+      },
+      {
+        "label": "Yahoo!地图：坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/5LXcB5XYYn6"
+      }
+    ],
+    "description": "梅田空中庭园附近，集合酿酒厂、餐厅与瓶装店。最多15款生啤，可以边喝边看酿造设备。",
+    "tip": "周二店休；周末及节假日12点开门，适合白天安排。以店家最新公告为准。",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "yellow-ape-craft",
+    "name": "YELLOW APE CRAFT",
+    "nameJa": "イエローエイプクラフト",
+    "city": "大阪",
+    "area": "北滨・淀屋桥",
+    "categories": [
+      "beer"
+    ],
+    "address": "大阪府大阪市中央区今橋2-4-9",
+    "phone": "06-4963-3838",
+    "lat": 34.690607,
+    "lng": 135.505031,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/YlYwaCWKf9E",
+    "coordinatePrecision": "Yahoo!地图店铺点位（网页 GeoCoordinates）；未实地验证入口",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.42,
+        "scale": 5,
+        "count": 120,
+        "countUnit": "评价人数",
+        "url": "https://tabelog.com/osaka/A2701/A270102/27069035/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "官网：电话、地址、20款轮换酒头及当日酒单",
+        "url": "https://yellowapecraft.com/"
+      },
+      {
+        "label": "食べログ：评分与店铺信息",
+        "url": "https://tabelog.com/osaka/A2701/A270102/27069035/"
+      },
+      {
+        "label": "Yahoo!地图：坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/YlYwaCWKf9E"
+      }
+    ],
+    "description": "北滨街区的20酒头精酿店，国内外酒款轮换，从拉格、白啤到IPA都有；一楼可站饮，二楼有桌席。",
+    "tip": "官网发布当日酒单；当前常规营业日为周二至周六，15点开门。",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "takanoya",
+    "name": "高野麦酒店 TAKANOYA",
+    "nameJa": "高野麦酒店takanoya",
+    "city": "京都",
+    "area": "丸太町・京都御所南",
+    "categories": [
+      "beer"
+    ],
+    "address": "京都府京都市中京区烏丸通夷川下ル蒔絵屋町255",
+    "phone": "075-744-1757",
+    "lat": 35.014786,
+    "lng": 135.759421,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/Axh38wfXGPc",
+    "coordinatePrecision": "Yahoo!地图店铺点位（网页 GeoCoordinates）；未实地验证入口",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.41,
+        "scale": 5,
+        "count": 89,
+        "countUnit": "评价人数",
+        "url": "https://tabelog.com/kyoto/A2601/A260202/26028692/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "KYOTO NUDE BREWERY官方：地址、电话与店铺介绍",
+        "url": "https://kyotonudebrewery.myshopify.com/pages/shop-detail-all"
+      },
+      {
+        "label": "食べログ：评分、交通与营业资料",
+        "url": "https://tabelog.com/kyoto/A2601/A260202/26028692/"
+      },
+      {
+        "label": "Yahoo!地图：坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/Axh38wfXGPc"
+      }
+    ],
+    "description": "百年左右的京町家改造而成，主打和食搭配海外精酿，是KYOTO NUDE BREWERY的直营店之一。",
+    "tip": "丸太町站步行约2分钟，周三店休；店铺注明不接待未成年人。",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "starboard",
+    "name": "CRAFT KOBE STARBOARD",
+    "nameJa": "スターボード",
+    "city": "神户",
+    "area": "三宫・元町",
+    "categories": [
+      "beer"
+    ],
+    "address": "兵庫県神戸市中央区北長狭通2-7-12 pmptビル 2F",
+    "phone": "078-392-3265",
+    "lat": 34.692209,
+    "lng": 135.19,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/OABg5dIATYY",
+    "coordinatePrecision": "Yahoo!地图店铺点位（网页 GeoCoordinates）；未实地验证入口",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.54,
+        "scale": 5,
+        "count": 236,
+        "countUnit": "评价人数",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28026306/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "官网：直拨电话、地址与自酿啤酒介绍",
+        "url": "https://www.craftkobebeer.com/"
+      },
+      {
+        "label": "食べログ：评分、楼层与店铺信息",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28026306/"
+      },
+      {
+        "label": "Yahoo!地图：坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/OABg5dIATYY"
+      }
+    ],
+    "description": "供应自家神户啤酒及六甲、海外精酿，配招牌炸鸡和芝加哥深盘披萨；有多款啤酒试饮组合。",
+    "tip": "在大楼二层，三宫站步行约7分钟。官网建议周末及多人同行提前预约。",
+    "checkedAt": "2026-09-18"
+  }
+]

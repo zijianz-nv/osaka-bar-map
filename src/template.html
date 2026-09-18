@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#182f2c">
+<meta name="description" content="大阪、京都、神户的鸡尾酒、威士忌与精酿地图。按城市与酒类筛选，查看电话、地址、食べログ评分和原始来源。">
+<title>大阪酒鬼地图 · Osaka After Dark</title>
+<style>/* LEAFLET_CSS */</style>
+<style>/* CLUSTER_CSS */</style>
+<style>/* APP_CSS */</style>
+</head>
+<body>
+<header class="masthead">
+  <a class="brand" href="#" aria-label="大阪酒鬼地图首页"><span class="brand-mark" aria-hidden="true">酒</span><span>AFTER DARK <span class="brand-place">/ KANSAI</span></span></a>
+  <div class="header-actions"><button id="atlas-open" class="quiet-button"><span class="desktop-label">地图汇总</span><span class="mobile-label">总览</span> ↗</button><button id="about-open" class="quiet-button"><span class="desktop-label">资料与评分说明</span><span class="mobile-label">说明</span> ↗</button></div>
+</header>
+<main>
+  <section class="intro" aria-labelledby="page-title">
+    <div><p class="eyebrow">OSAKA · KYOTO · KOBE</p><h1 id="page-title">大阪酒鬼地图<span class="title-dot">。</span></h1><p class="subtitle">从一杯鸡尾酒，到一口麦芽香。找到今晚想坐下的吧台。</p></div>
+    <div class="edition"><span>关西饮酒手帖</span><strong id="edition-count">VENUE_COUNT_TEXT</strong><span>资料查询 · 2026.09.18</span></div>
+  </section>
+  <section id="static-guide" aria-label="完整便携酒吧清单">STATIC_GUIDE_PLACEHOLDER</section>
+  <nav class="city-nav" aria-label="选择城市">
+    <div class="city-buttons"><button type="button" data-city="大阪" aria-pressed="true">大阪 <span>OSAKA</span></button><button type="button" data-city="京都" aria-pressed="false">京都 <span>KYOTO</span></button><button type="button" data-city="神户" aria-pressed="false">神户 <span>KOBE</span></button><button type="button" data-city="all" aria-pressed="false">全部关西</button></div>
+    <span class="city-hint" id="city-hint">从大阪开始，慢慢喝。</span>
+  </nav>
+  <div class="explorer">
+    <aside class="sidebar" aria-label="店铺筛选与列表">
+      <div class="filter-panel" id="filters">
+        <label class="search-wrap"><span aria-hidden="true">⌕</span><input type="search" id="search" placeholder="搜索店名、街区、关键词" autocomplete="off" aria-label="搜索店名、街区、关键词"><kbd aria-hidden="true">/</kbd></label>
+        <div class="category-buttons" aria-label="选择酒类"><button type="button" data-category="all" aria-pressed="true">全部</button><button type="button" data-category="cocktail" aria-pressed="false"><i class="dot cocktail"></i>鸡尾酒</button><button type="button" data-category="whisky" aria-pressed="false"><i class="dot whisky"></i>威士忌</button><button type="button" data-category="beer" aria-pressed="false"><i class="dot beer"></i>精酿</button></div>
+        <div class="filter-row"><button type="button" id="saved-only" class="saved-filter" aria-pressed="false">♡ 我的收藏 <span id="saved-count">0</span></button><label class="sort-label"><span class="sr-only">排序方式</span><select id="sort"><option value="curated">按街区浏览</option><option value="rating">评分从高到低</option><option value="reviews">评价人数从多到少</option></select></label></div>
+      </div>
+      <div class="results-heading" id="list-heading"><span id="result-count" aria-live="polite"></span><button type="button" id="random" class="text-button">随机选一家 ↗</button></div>
+      <div id="results" class="results"></div>
+      <div class="list-note">评分来自食べログ（5 分制）<br>点选店铺查看电话、地址与资料来源。</div>
+    </aside>
+    <section class="map-section" id="map-section" aria-label="关西酒吧互动地图">
+      <div id="map" role="region" aria-label="可缩放与拖动的酒吧地图"></div>
+      <div class="map-top"><span class="map-caption"><i class="live-dot"></i><span id="map-caption">大阪 · OSAKA_COUNT 家</span></span><button type="button" id="fit-map" class="map-button">⊞ 显示所有结果</button></div>
+      <div class="map-bottom"><div class="map-legend"><span><i class="dot cocktail"></i>鸡尾酒</span><span><i class="dot whisky"></i>威士忌</span><span><i class="dot beer"></i>精酿</span></div><span class="map-instruction">点击数字圆点展开附近店铺</span></div>
+      <div id="map-status" class="map-status" role="status" hidden>底图暂未加载，店铺资料仍可查看。<button type="button" id="retry-map">重试底图</button></div>
+    </section>
+  </div>
+  <footer class="page-footer"><span>每一杯，都有自己的坐标。</span><span>照片与总览地图可离线查看 · 交互底图需联网 · <button class="text-button" id="about-footer">查看来源说明</button></span></footer>
+</main>
+<nav class="mobile-dock" aria-label="手机快捷导航"><button type="button" data-jump="map"><span aria-hidden="true">⊞</span> 地图</button><button type="button" data-jump="list"><span aria-hidden="true">☷</span> 清单 <span id="mobile-result-count"></span></button><button type="button" data-jump="filters"><span aria-hidden="true">⌕</span> 筛选</button></nav>
+<dialog id="atlas-dialog" class="atlas-dialog" aria-label="全部店铺地图汇总"><div class="atlas-dialog-head"><span>36 家 · 离线地图汇总</span><button type="button" class="dialog-close" id="atlas-close" aria-label="关闭地图汇总">×</button></div><div id="atlas-body"></div></dialog>
+<dialog id="about-dialog" aria-labelledby="about-title"><div class="dialog-top"><p class="eyebrow">FIELD NOTES / 2026.09.18</p><button type="button" class="dialog-close" id="about-close" aria-label="关闭说明">×</button></div><h2 id="about-title">出发前，读一下小字。</h2><dl class="about-list"><dt>收录范围</dt><dd>以大阪及府内周边为主，延伸到京都、神户，共 TOTAL_COUNT 家。覆盖鸡尾酒、威士忌与精酿；分类代表选店侧重点，店内可能供应其他酒类。</dd><dt>评分怎么看</dt><dd>全部标注食べログ公开评分，满分 5 分；这不是 Google Maps 评分。数值与评价人数是 2026 年 9 月 18 日查询时可见页面的快照，可能随平台更新、缓存或语言版本变化。每家店都附评分原页。</dd><dt>电话与地址</dt><dd>日本号码可直接点击拨打；实际通话使用 +81 国际格式。电话、地址优先核对店铺官网与平台资料。临时休业、搬迁或预约规则请出发前查看店铺原页。</dd><dt>地图与导航</dt><dd>位置取自公开地图、店铺页面或地址定位；如只有近似位置，会在详情明确标注。楼层以文字地址为准。导航链接使用店名与完整地址查询。</dd><dt>收藏与联网</dt><dd>收藏保存在当前浏览器中。HTML 自带店铺资料、36张照片与静态总览地图，可离线查看；交互地图的街道底图、外部店铺页面和导航需要联网。换浏览器或移动文件后，收藏可能不会同步。无需同时携带其他文件。部分手机文件预览不运行脚本，此时会显示含电话、地址和评分的完整静态清单；互动功能需在支持 JavaScript 的浏览器中使用。</dd><dt>门头与入口照片</dt><dd>每家附一张真实门头、店铺入口或楼宇入口参考照片，均有来源链接。地下、楼上及酒店酒吧请同时核对楼层说明；部分照片为招牌局部。照片拍摄时间见原页，实际招牌或装修可能变化。</dd><dt>地图署名</dt><dd>交互地图使用 <a href="https://leafletjs.com/" target="_blank" rel="noopener noreferrer">Leaflet</a>；底图使用日本 <a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank" rel="noopener noreferrer">国土地理院「地理院タイル」淡色地图</a>。</dd></dl></dialog>
+<div id="toast" class="toast" role="status" hidden></div>
+<script>/* LEAFLET_JS */</script>
+<script>/* CLUSTER_JS */</script>
+<script id="venue-data" type="application/json">DATA_PLACEHOLDER</script>
+<script>/* APP_JS */</script>
+</body>
+</html>

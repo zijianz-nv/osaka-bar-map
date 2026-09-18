@@ -1,0 +1,110 @@
+[
+  {
+    "id": "kamikaze",
+    "path": "assets/storefronts/kamikaze.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270201/27142508/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/267744/640x640_rect_c913d706cb27b871d48b7428fe84e9f0.jpg",
+    "caption": "Kamikaze 新址门头（北堀江1-16-13）",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "beerbelly-tenma",
+    "path": "assets/storefronts/beerbelly-tenma.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270103/27064698/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/86382/640x640_rect_86382648.jpg",
+    "caption": "BEER BELLY 天满店门头",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "mother-tree",
+    "path": "assets/storefronts/mother-tree.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270101/27125128/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/268733/640x640_rect_eea6fb9f7ab810b62265b8b164263a1f.jpg",
+    "caption": "MOTHER TREE 沿街门头与入口",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "yellow-ape-craft",
+    "path": "assets/storefronts/yellow-ape-craft.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270102/27069035/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/99058/640x640_rect_99058945.jpg",
+    "caption": "YELLOW APE CRAFT 沿街门头",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "takanoya",
+    "path": "assets/storefronts/takanoya.jpg",
+    "sourcePage": "https://tabelog.com/kyoto/A2601/A260202/26028692/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/98964/640x640_rect_98964497.jpg",
+    "caption": "高野麦酒店门头与入口",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "starboard",
+    "path": "assets/storefronts/starboard.jpg",
+    "sourcePage": "https://tabelog.com/hyogo/A2801/A280101/28026306/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/190582/640x640_rect_87e1d9644cf9f43a8aeb79863485f092.jpg",
+    "caption": "STARBOARD 二楼店铺入口",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "craft-beer-base-bud",
+    "path": "assets/storefronts/craft-beer-base-bud.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270101/27086924/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/201432/640x640_rect_4911b6832d67d6ae82ebe9a7540e10af.jpg",
+    "caption": "CRAFT BEER BASE BUD 地下商场店铺入口",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "minoh-beer-warehouse",
+    "path": "assets/storefronts/minoh-beer-warehouse.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2706/A270603/27088240/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/367073/640x640_rect_a3ad7234a346a16328102968ec161447.jpg",
+    "caption": "箕面啤酒 WAREHOUSE 门头",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "beer-stand-marca",
+    "path": "assets/storefronts/beer-stand-marca.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270401/27115642/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/257291/640x640_rect_a3576b44cb3e9dabddee6fe3839240f0.jpg",
+    "caption": "BEER STAND MARCA 在 TUGBOAT TAISHO 内的摊位正面",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "molto-umeda",
+    "path": "assets/storefronts/molto-umeda.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270101/27066826/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/275474/640x640_rect_71e11156f4f2aa580ba84803ad0a762e.jpg",
+    "caption": "molto!! 梅田店31层店铺入口",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "kyoto-beer-lab",
+    "path": "assets/storefronts/kyoto-beer-lab.jpg",
+    "sourcePage": "https://tabelog.com/kyoto/A2601/A260101/26030571/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/305884/640x640_rect_a51feadadc657d7655d43465f541d2b6.jpg",
+    "caption": "Kyoto Beer Lab 十禅师町本店门头",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "open-air-motomachi",
+    "path": "assets/storefronts/open-air-motomachi.jpg",
+    "sourcePage": "https://tabelog.com/hyogo/A2801/A280102/28063611/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/353533/640x640_rect_7fc3883536637596b651b9b4e19f7fae.jpg",
+    "caption": "open air 神户元町店门头",
+    "kind": "storefront",
+    "verified": true
+  }
+]

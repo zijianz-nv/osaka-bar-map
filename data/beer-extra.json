@@ -1,0 +1,260 @@
+[
+  {
+    "id": "craft-beer-base-bud",
+    "name": "CRAFT BEER BASE BUD",
+    "nameJa": "クラフトビアベース バド",
+    "city": "大阪",
+    "area": "梅田・大阪站前第一大楼",
+    "categories": [
+      "beer"
+    ],
+    "address": "大阪府大阪市北区梅田1-3-1 大阪駅前第一ビル B2F テナントNo.22",
+    "phone": "06-6225-7807",
+    "lat": 34.698899,
+    "lng": 135.496891,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/GAlSmCWg6ME",
+    "coordinatePrecision": "Yahoo!地图店铺点位（网页 GeoCoordinates）；未实地验证入口",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.34,
+        "scale": 5,
+        "count": 115,
+        "countUnit": "评价人数",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27086924/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、评价人数、电话与地址",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27086924/"
+      },
+      {
+        "label": "Yahoo!地图：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/GAlSmCWg6ME"
+      }
+    ],
+    "description": "大阪站前第一大楼地下的10酒头精酿吧，轮换国内外酒款，提供小杯便于比较风味。",
+    "tip": "位于B2F的22号店铺；从北新地站步行约1分钟。",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "minoh-beer-warehouse",
+    "name": "MINOH BEER WAREHOUSE",
+    "nameJa": "ミノオ ビール ウエアハウス",
+    "city": "大阪",
+    "area": "箕面市・牧落",
+    "categories": [
+      "beer"
+    ],
+    "address": "大阪府箕面市牧落3-14-18",
+    "phone": "072-725-7234",
+    "lat": 34.823300407893,
+    "lng": 135.47258207873,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/_e8DylkNGs-",
+    "coordinatePrecision": "Yahoo!地图店铺点位（网页 GeoCoordinates）；未实地验证入口",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.46,
+        "scale": 5,
+        "count": 170,
+        "countUnit": "评价人数",
+        "url": "https://tabelog.com/osaka/A2706/A270603/27088240/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、评价人数、电话与地址",
+        "url": "https://tabelog.com/osaka/A2706/A270603/27088240/"
+      },
+      {
+        "label": "官方网站：店铺资料与特色",
+        "url": "https://www.minoh-beer.jp/warehouse/"
+      },
+      {
+        "label": "Yahoo!地图：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/_e8DylkNGs-"
+      }
+    ],
+    "description": "箕面啤酒直营酒馆，主打新鲜生啤与轮换季节款，搭配自制肉食和啤酒酵母面包。",
+    "tip": "阪急箕面线牧落站步行约12分钟；可在官网查看酒单及营业日历。",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "beer-stand-marca",
+    "name": "BEER STAND MARCA",
+    "nameJa": "ビア スタンド マルカ",
+    "city": "大阪",
+    "area": "大正・TUGBOAT TAISHO",
+    "categories": [
+      "beer"
+    ],
+    "address": "大阪府大阪市大正区三軒家西1-1-14 TUGBOAT TAISHO",
+    "phone": "080-2110-6099",
+    "lat": 34.667428037189,
+    "lng": 135.47864227599,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/ayuVvy5pYTE",
+    "coordinatePrecision": "Yahoo!地图店铺点位（网页 GeoCoordinates）；未实地验证入口",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.18,
+        "scale": 5,
+        "count": 32,
+        "countUnit": "评价人数",
+        "url": "https://tabelog.com/osaka/A2701/A270401/27115642/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、评价人数、电话与地址",
+        "url": "https://tabelog.com/osaka/A2701/A270401/27115642/"
+      },
+      {
+        "label": "官方网站：店铺资料与特色",
+        "url": "https://beermarca.com/"
+      },
+      {
+        "label": "Yahoo!地图：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/ayuVvy5pYTE"
+      },
+      {
+        "label": "TUGBOAT TAISHO官方：店铺名录",
+        "url": "https://tugboat-taisho.jp/"
+      }
+    ],
+    "description": "TUGBOAT TAISHO美食广场里的本地精酿摊，供应MARCA自酿酒及多款试饮组合。",
+    "tip": "官网及TUGBOAT TAISHO仍列有此店；Yahoo地图提示营业状态可能变化，出发前请电话确认。",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "molto-umeda",
+    "name": "CRAFT BEER HOUSE molto!! 梅田店",
+    "nameJa": "クラフトビアハウスモルト!! 梅田店",
+    "city": "大阪",
+    "area": "梅田・阪急Grand大楼",
+    "categories": [
+      "beer"
+    ],
+    "address": "大阪府大阪市北区角田町8-47 阪急グランドビル31F",
+    "phone": "06-6809-2641",
+    "lat": 34.703143,
+    "lng": 135.498973,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/M-x28ejhODk",
+    "coordinatePrecision": "Yahoo!地图店铺点位（网页 GeoCoordinates）；未实地验证入口",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.53,
+        "scale": 5,
+        "count": 483,
+        "countUnit": "评价人数",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27066826/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、评价人数、电话与地址",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27066826/"
+      },
+      {
+        "label": "官方网站：店铺资料与特色",
+        "url": "https://hankyu32.hankyu.co.jp/shoplist/detail/31F_06.html"
+      },
+      {
+        "label": "Yahoo!地图：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/M-x28ejhODk"
+      }
+    ],
+    "description": "阪急大楼31层的景观精酿餐厅，以约20款日本精酿搭配烟熏烤肉和意大利菜。",
+    "tip": "位于阪急Grand大楼31F，可把高层景观、正餐与精酿一起安排。",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "kyoto-beer-lab",
+    "name": "Kyoto Beer Lab",
+    "nameJa": "京都ビアラボ",
+    "city": "京都",
+    "area": "七条・高濑川",
+    "categories": [
+      "beer"
+    ],
+    "address": "京都府京都市下京区十禅師町201-3",
+    "phone": "075-352-6666",
+    "lat": 34.990672727881,
+    "lng": 135.76570022021,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/WyQHBiEhXFQ",
+    "coordinatePrecision": "Yahoo!地图店铺点位（网页 GeoCoordinates）；未实地验证入口",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.47,
+        "scale": 5,
+        "count": 143,
+        "countUnit": "评价人数",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26030571/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、评价人数、电话与地址",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26030571/"
+      },
+      {
+        "label": "官方网站：店铺资料与特色",
+        "url": "https://kyotobeerlab.jp/"
+      },
+      {
+        "label": "Yahoo!地图：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/WyQHBiEhXFQ"
+      }
+    ],
+    "description": "高濑川畔的小型自酿酒馆，以京都和束茶叶制作的茶啤系列很有特色，也不断尝试新素材和风格。",
+    "tip": "这是十禅师町本店，勿与朱雀宝藏町的KBL THE GARAGE二店混淆。",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "id": "open-air-motomachi",
+    "name": "open air 神户元町店",
+    "nameJa": "open air 神戸元町店（オープンエア）",
+    "city": "神户",
+    "area": "元町・旧居留地",
+    "categories": [
+      "beer"
+    ],
+    "address": "兵庫県神戸市中央区三宮町3-2-2",
+    "phone": "050-3188-5901",
+    "lat": 34.68969,
+    "lng": 135.19049,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/yx91-ZkqugM",
+    "coordinatePrecision": "Yahoo!地图店铺点位（网页 GeoCoordinates）；未实地验证入口",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.51,
+        "scale": 5,
+        "count": 290,
+        "countUnit": "评价人数",
+        "url": "https://tabelog.com/hyogo/A2801/A280102/28063611/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、评价人数、电话与地址",
+        "url": "https://tabelog.com/hyogo/A2801/A280102/28063611/"
+      },
+      {
+        "label": "官方网站：店铺资料与特色",
+        "url": "https://www.world-one-group.co.jp/shop_detail/openair-motomachi/"
+      },
+      {
+        "label": "Yahoo!地图：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/yx91-ZkqugM"
+      }
+    ],
+    "description": "神户本地open air酒厂的元町据点，自酿精酿搭配神户猪肉煎饺与淡路食材料理。",
+    "tip": "靠近大丸神户店，JR或阪神元町站步行约3分钟。",
+    "checkedAt": "2026-09-18"
+  }
+]

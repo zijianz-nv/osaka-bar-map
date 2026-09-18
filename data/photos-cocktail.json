@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bar-nayuta",
+    "path": "assets/storefronts/bar-nayuta.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270201/27093461/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/360268/640x640_rect_87f74e19c85a7ebe76c86ae0d6f46bf0.jpg",
+    "caption": "五楼店铺小门入口",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "bible-club-osaka",
+    "path": "assets/storefronts/bible-club-osaka.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270201/27109714/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/118749/640x640_rect_f5cac661fdc2a7577390a86b93bbf4b8.jpg",
+    "caption": "木门与铁栏围合的店铺入口",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "bar-k",
+    "path": "assets/storefronts/bar-k.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270101/27002057/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/324477/640x640_rect_c68f2e05ea7a2a4216ffba55bd0078f7.jpg",
+    "caption": "地下酒吧店门入口",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "bar-juniper",
+    "path": "assets/storefronts/bar-juniper.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270101/27057361/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/353796/640x640_rect_09142b8271b89b8e36fdd0afc12170f3.jpg",
+    "caption": "街边门面；主店入口为左侧木门",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "lescamoteur-kyoto",
+    "path": "assets/storefronts/lescamoteur-kyoto.jpg",
+    "sourcePage": "https://tabelog.com/kyoto/A2601/A260101/26025473/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/239697/640x640_rect_96eb0d72fa949d9d7656562acf11f253.jpg",
+    "caption": "通往楼上酒吧的楼梯入口",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "elixir-de-longue-vie",
+    "path": "assets/storefronts/elixir-de-longue-vie.jpg",
+    "sourcePage": "https://tabelog.com/hyogo/A2801/A280101/28022778/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/266249/640x640_rect_c0cd87a967141210d9adb8dbec19f0dd.jpg",
+    "caption": "门前招牌近景（局部，非完整门面）",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "bar-masuda",
+    "path": "assets/storefronts/bar-masuda.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270202/27064091/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/211174/640x640_rect_f18d558795a45ddb6da6a1969aff278b.jpg",
+    "caption": "Bar Masuda 石砖门面",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "bar-shiki",
+    "path": "assets/storefronts/bar-shiki.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270201/27106470/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/326702/640x640_rect_a480b796a001e3892e26f2ed59835d5f.jpg",
+    "caption": "二楼店铺入口",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "bar-beso",
+    "path": "assets/storefronts/bar-beso.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270101/27079808/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/348824/640x640_rect_41522c56b0dbd5f178d6985f22656fbc.jpg",
+    "caption": "堂島现址楼宇入口；BESO位于地下，右侧目录可见店名",
+    "kind": "building",
+    "verified": true
+  },
+  {
+    "id": "st-regis-bar-osaka",
+    "path": "assets/storefronts/st-regis-bar-osaka.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270106/27052889/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/323217/640x640_rect_8c72e3b53c1d9da6ed081e4b6272b112.jpg",
+    "caption": "大阪瑞吉酒店楼宇入口；酒吧位于12楼",
+    "kind": "building",
+    "verified": true
+  },
+  {
+    "id": "bees-knees-kyoto",
+    "path": "assets/storefronts/bees-knees-kyoto.jpg",
+    "sourcePage": "https://tabelog.com/kyoto/A2601/A260201/26031299/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/133540/640x640_rect_133540168.jpg",
+    "caption": "走廊尽头的黄色 The Book Store 店门",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "savoy-kitanozaka",
+    "path": "assets/storefronts/savoy-kitanozaka.jpg",
+    "sourcePage": "https://tabelog.com/hyogo/A2801/A280101/28022839/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/380087/640x640_rect_55bdb94f62a76d5610ce50fe184e59e4.jpg",
+    "caption": "四楼木质店门与店名标识",
+    "kind": "entrance",
+    "verified": true
+  }
+]

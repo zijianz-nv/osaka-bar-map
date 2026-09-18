@@ -1,0 +1,266 @@
+[
+  {
+    "id": "tohnen",
+    "name": "十年 Tohnen",
+    "nameJa": "十年（トオネン）",
+    "city": "大阪",
+    "area": "北新地",
+    "categories": [
+      "whisky"
+    ],
+    "address": "大阪府大阪市北区曽根崎新地1-5-7 梅ばちビル1F",
+    "phone": "06-6344-2407",
+    "lat": 34.697706677981,
+    "lng": 135.49720119744,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/1yyl-0tsmzY",
+    "coordinatePrecision": "Yahoo!マップ 店铺公开坐标；楼层请按地址辨认",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.35,
+        "scale": 5,
+        "count": 51,
+        "url": "https://tabelog.com/osaka/A2701/A270101/27002081/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、电话、地址",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27002081/"
+      },
+      {
+        "label": "官网：波本专门店、地址、电话",
+        "url": "https://tohnen1967.wixsite.com/bourbon-only"
+      },
+      {
+        "label": "Yahoo!マップ：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/1yyl-0tsmzY"
+      }
+    ],
+    "description": "1967年开业的北新地波本专门老店，吧台后收藏大量波本，适合探索美式威士忌。",
+    "tip": "店在梅ばちビル1楼；点酒时可先报偏爱的甜度、桶味与预算。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "whisky-dining-wwww",
+    "name": "Whisky Dining WWW.W",
+    "nameJa": "ウイスキーダイニング フォーダブリュー",
+    "city": "大阪",
+    "area": "梅田・Grand Front",
+    "categories": [
+      "whisky"
+    ],
+    "address": "大阪府大阪市北区大深町3-1 グランフロント大阪 北館ナレッジキャピタル2F",
+    "phone": "050-3199-1465",
+    "lat": 34.706539,
+    "lng": 135.494177,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/xjqd6lWXLhs",
+    "coordinatePrecision": "Yahoo!マップ 店铺公开坐标；位于商场北馆2楼",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.48,
+        "scale": 5,
+        "count": 643,
+        "url": "https://tabelog.com/osaka/A2701/A270101/27072204/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、地址",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27072204/"
+      },
+      {
+        "label": "官方餐厅网页：威士忌配餐",
+        "url": "https://www.dynacjapan.com/brands/whisky-dining-wwww/shops/grandfront-osaka/"
+      },
+      {
+        "label": "官方预约页：电话、地址",
+        "url": "https://booking.ebica.jp/webrsv/search/e014001506/9551"
+      },
+      {
+        "label": "Yahoo!マップ：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/xjqd6lWXLhs"
+      }
+    ],
+    "description": "Grand Front大阪内的威士忌餐酒馆，提供世界威士忌及配餐，适合把晚餐和试酒安排在一起。",
+    "tip": "位于Grand Front大阪北馆2楼，入口按北馆导航。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "bar-keith",
+    "name": "Bar Keith",
+    "nameJa": "バー キース",
+    "city": "大阪",
+    "area": "新大阪・东三国",
+    "categories": [
+      "whisky"
+    ],
+    "address": "大阪府大阪市淀川区宮原2-14-1 マキシム東三国1F",
+    "phone": "06-6393-0170",
+    "lat": 34.738119837151,
+    "lng": 135.49938807669,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/qhH1dwIMH7E",
+    "coordinatePrecision": "Yahoo!マップ 店铺公开坐标；楼层请按地址辨认",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.13,
+        "scale": 5,
+        "count": 21,
+        "url": "https://tabelog.com/osaka/A2701/A270301/27000810/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、电话、地址",
+        "url": "https://tabelog.com/osaka/A2701/A270301/27000810/"
+      },
+      {
+        "label": "官网：日本威士忌专门、交通",
+        "url": "https://www.bar-keith.com/"
+      },
+      {
+        "label": "Yahoo!マップ：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/qhH1dwIMH7E"
+      }
+    ],
+    "description": "新大阪附近的日本威士忌专门吧，收有常规与限量日威，也有炸鱼薯条等热食。",
+    "tip": "官网交通指引：东三国站4号出口步行约3分钟。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "whisky-aiba",
+    "name": "Whisky Bar Aiba",
+    "nameJa": "ウイスキー専門店 相葉",
+    "city": "大阪",
+    "area": "东心斋桥",
+    "categories": [
+      "whisky"
+    ],
+    "address": "大阪府大阪市中央区東心斎橋2-3-13 日宝スターライトビル1F 1号",
+    "phone": "06-6213-0120",
+    "lat": 34.670486737195,
+    "lng": 135.504709076,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/pJFW6XEhEVI",
+    "coordinatePrecision": "Yahoo!マップ 店铺公开坐标；楼层请按地址辨认",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.08,
+        "scale": 5,
+        "count": 10,
+        "url": "https://tabelog.com/osaka/A2701/A270202/27134032/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、电话、地址",
+        "url": "https://tabelog.com/osaka/A2701/A270202/27134032/"
+      },
+      {
+        "label": "Suntory BAR-NAVI：威士忌专门、门牌",
+        "url": "https://bar-navi.suntory.co.jp/shop/S000010781/"
+      },
+      {
+        "label": "Yahoo!マップ：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/pJFW6XEhEVI"
+      }
+    ],
+    "description": "东心斋桥的威士忌专门店，长木吧台与密集酒瓶墙，适合集中探索不同产区与装瓶。",
+    "tip": "这里主打威士忌，Suntory店铺页列为不提供其他酒类。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "bar-talisker",
+    "name": "BAR TALISKER",
+    "nameJa": "バー タリスカー",
+    "city": "京都",
+    "area": "祇园",
+    "categories": [
+      "whisky"
+    ],
+    "address": "京都府京都市東山区祇園町南側570-88 祇園町南側ビル1F",
+    "phone": "075-525-6205",
+    "lat": 35.001902067435,
+    "lng": 135.77665415643,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/IqC9x5p3voE",
+    "coordinatePrecision": "Yahoo!マップ 店铺公开坐标；楼层请按地址辨认",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.84,
+        "scale": 5,
+        "count": 166,
+        "url": "https://tabelog.com/kyoto/A2601/A260301/26027776/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、电话、地址",
+        "url": "https://tabelog.com/kyoto/A2601/A260301/26027776/"
+      },
+      {
+        "label": "Talisker品牌：酒吧介绍与地址",
+        "url": "https://talisker-online.jp/search/bar_detail.php?p=111&t=detail"
+      },
+      {
+        "label": "JBL：酒吧音乐与空间介绍",
+        "url": "https://jp.jbl.com/talisker.html"
+      },
+      {
+        "label": "Yahoo!マップ：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/IqC9x5p3voE"
+      }
+    ],
+    "description": "祇园南侧的经典吧，威士忌老装瓶与爵士唱片是特色，也提供经典鸡尾酒。",
+    "tip": "位于祇园町南侧1楼，按570-88门牌找入口。",
+    "verifiedAt": "2026-09-18"
+  },
+  {
+    "id": "nineteenth-bar",
+    "name": "The Nineteenth Bar",
+    "nameJa": "ザナインティーンズバー",
+    "city": "神户",
+    "area": "三宫・北野坂",
+    "categories": [
+      "whisky"
+    ],
+    "address": "兵庫県神戸市中央区中山手通1-22-18 STELLA LUCE 北野坂2階東",
+    "phone": "078-242-0019",
+    "lat": 34.697824137884,
+    "lng": 135.19178612766,
+    "coordinateSource": "https://map.yahoo.co.jp/v3/place/rRaFj0g38Ss",
+    "coordinatePrecision": "Yahoo!マップ 店铺公开坐标；楼层请按地址辨认",
+    "ratings": [
+      {
+        "platform": "食べログ",
+        "score": 3.1,
+        "scale": 5,
+        "count": 13,
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28054327/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "食べログ：评分、电话、地址",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28054327/"
+      },
+      {
+        "label": "官网：单一麦芽、电话、地址",
+        "url": "https://the-nineteenth-bar.com/"
+      },
+      {
+        "label": "神户旅游局酒吧地图：日本威士忌特色",
+        "url": "https://www.feel-kobe.jp/app/wp-content/uploads/kobe.barmap_en.pdf"
+      },
+      {
+        "label": "Yahoo!マップ：店铺坐标",
+        "url": "https://map.yahoo.co.jp/v3/place/rRaFj0g38Ss"
+      }
+    ],
+    "description": "北野坂的威士忌吧，英国古董家具与整块木吧台，日威和单一麦芽选酒值得留意。",
+    "tip": "北野坂2楼东侧；食べログ交通指引为三宫站步行约10分钟。",
+    "verifiedAt": "2026-09-18"
+  }
+]

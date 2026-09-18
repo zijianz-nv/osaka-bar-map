@@ -1,0 +1,110 @@
+[
+  {
+    "id": "augusta-tarlogie",
+    "path": "assets/storefronts/augusta-tarlogie.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270101/27003573/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/350384/640x640_rect_0a1f47e2c209b9a71caa6c6aafa2b45e.jpg",
+    "caption": "入口：木门旁有 TARLOGIE 标牌",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "parkmore",
+    "path": "assets/storefronts/parkmore.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270101/27073014/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/182066/640x640_rect_b946bee262ec861e266d110e7a745e82.jpg",
+    "caption": "入口：YU大楼3楼的木门与店牌",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "cellar-infini",
+    "path": "assets/storefronts/cellar-infini.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270101/27000142/dtlrvwlst/B113968791/?type=0",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/20143/640x640_rect_20143092.jpg",
+    "caption": "入口参考：木门与无穷符号店牌（2013年7月访店照片）",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "common",
+    "path": "assets/storefronts/common.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270201/27122189/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/289218/640x640_rect_9c702067014f578449407d2a64e17314.jpg",
+    "caption": "门头：心斋桥PARCO地下二楼的红橙色招牌",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "bar-k6",
+    "path": "assets/storefronts/bar-k6.jpg",
+    "sourcePage": "https://tabelog.com/kyoto/A2601/A260202/26001197/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/357967/640x640_rect_90a152e04a8bce8848be978e5df9a91a.jpg",
+    "caption": "入口：通往2楼的金属楼梯与K6招牌",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "main-malt",
+    "path": "assets/storefronts/main-malt.jpg",
+    "sourcePage": "https://tabelog.com/hyogo/A2801/A280101/28058195/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/168330/640x640_rect_87fdd9eab52024a79eee12a1fb69c2c8.jpg",
+    "caption": "入口：东门Gold大楼2楼的木门与圆形店牌",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "tohnen",
+    "path": "assets/storefronts/tohnen.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270101/27002081/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/302705/640x640_rect_e70e1b03ffb76053e9cd0288429a176e.jpg",
+    "caption": "门头：砖墙旁的钟表形十年招牌",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "whisky-dining-wwww",
+    "path": "assets/storefronts/whisky-dining-wwww.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270101/27072204/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/269993/640x640_rect_49c411e3db95ec1d25b0a6eb8325aeb7.jpg",
+    "caption": "入口：Whisky Dining的DINING门头",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "bar-keith",
+    "path": "assets/storefronts/bar-keith.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270301/27000810/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/4622/640x640_rect_4622368.jpg",
+    "caption": "门头：绿色窗框、拱窗与沿街店面",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "whisky-aiba",
+    "path": "assets/storefronts/whisky-aiba.jpg",
+    "sourcePage": "https://tabelog.com/osaka/A2701/A270202/27134032/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/311323/640x640_rect_47c1532db82c08751c09a04fff0cb293.jpg",
+    "caption": "门头：相葉店牌与临街入口",
+    "kind": "storefront",
+    "verified": true
+  },
+  {
+    "id": "bar-talisker",
+    "path": "assets/storefronts/bar-talisker.jpg",
+    "sourcePage": "https://tabelog.com/kyoto/A2601/A260301/26027776/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/343547/640x640_rect_84082945fcfc8dc3b6fc8252aba60e55.jpg",
+    "caption": "入口：走廊内的木门与TALISKER招牌",
+    "kind": "entrance",
+    "verified": true
+  },
+  {
+    "id": "nineteenth-bar",
+    "path": "assets/storefronts/nineteenth-bar.jpg",
+    "sourcePage": "https://tabelog.com/hyogo/A2801/A280101/28054327/dtlphotolst/4/smp2/",
+    "imageUrl": "https://tblg.k-img.com/restaurant/images/Rvw/359938/640x640_rect_86c9730326dcb156aa2d1cd8d0a96d9c.jpg",
+    "caption": "入口：带数字19纹饰的旧木门",
+    "kind": "entrance",
+    "verified": true
+  }
+]
